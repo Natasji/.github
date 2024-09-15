@@ -1,6 +1,6 @@
 # NatashaJ 
 
-Current project repositories:
+Recent project repositories:
 
 ## Hardhat-Enterprises @ Deakin University
 
